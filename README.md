@@ -3,7 +3,7 @@ Mobile DI iOS app
 
 Screenshots 
 
-<img src="screenshots/login.PNG" width="200"><img src="screenshots/tableview.PNG" width="200"><img src="screenshots/nav.PNG" width="200"><img src="screenshots/detailpage.PNG" width="200">
+<img src="screenshots/login.PNG" width="200"> &nbsp <img src="screenshots/tableview.PNG" width="200">&nbsp<img src="screenshots/nav.PNG" width="200">&nbsp<img src="screenshots/detailpage.PNG" width="200">
 
 Functionalities
 

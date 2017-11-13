@@ -3,11 +3,7 @@ Mobile DI iOS app
 
 Screenshots 
 
-
-<img src="screenshots/login.PNG" width="200">
-    ![Web Service list page](screenshots/tableview.PNG?raw=true "TableView page")
-    ![Navigation bar](screenshots/nav.PNG?raw=true "Navigation bar")
-    ![Details page](screenshots/detailpage.PNG?raw=true "Details page")
+<img src="screenshots/login.PNG" width="200"><img src="screenshots/tableview.PNG" width="200"><img src="screenshots/nav.PNG" width="200"><img src="screenshots/detailpage.PNG" width="200">
 
 Functionalities
 

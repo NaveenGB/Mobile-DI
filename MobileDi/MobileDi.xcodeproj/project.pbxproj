@@ -243,7 +243,7 @@
 				TargetAttributes = {
 					391633E91FB9795000390C81 = {
 						CreatedOnToolsVersion = 9.1;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -490,13 +490,16 @@
 			baseConfigurationReference = 518D70BB8564AE35423D5C47 /* Pods-MobileDi.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3N6E3CTRMT;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = PU29DUSY29;
 				INFOPLIST_FILE = MobileDi/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ionidea.MobileDi1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ionidea.MobileDi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5db965d8-40d2-4fe1-946a-cd8ba0e100d4";
+				PROVISIONING_PROFILE_SPECIFIER = MobileDIProvisional;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -507,13 +510,16 @@
 			baseConfigurationReference = A044509B595D112193BCF52B /* Pods-MobileDi.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 3N6E3CTRMT;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = PU29DUSY29;
 				INFOPLIST_FILE = MobileDi/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ionidea.MobileDi1;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ionidea.MobileDi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "5db965d8-40d2-4fe1-946a-cd8ba0e100d4";
+				PROVISIONING_PROFILE_SPECIFIER = MobileDIProvisional;
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

@@ -1,9 +1,11 @@
 # Mobile-DI
 Mobile DI iOS app
 
-Screenshots :
-
-    ![Login page](screenshots/login.PNG?raw=true "Login page")![Web Service list page](screenshots/tableview.PNG?raw=true "TableView page")![Navigation bar](screenshots/nav.PNG?raw=true "Navigation bar")![Details page](screenshots/detailpage.PNG?raw=true "Details page")
+Screenshots 
+    ![Login page](screenshots/login.PNG?=250x "Login page")
+    ![Web Service list page](screenshots/tableview.PNG?raw=true "TableView page")
+    ![Navigation bar](screenshots/nav.PNG?raw=true "Navigation bar")
+    ![Details page](screenshots/detailpage.PNG?raw=true "Details page")
 
 Functionalities
 

@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Cosmos (12.0.1)
+  - SDWebImage (4.1.2):
+    - SDWebImage/Core (= 4.1.2)
+  - SDWebImage/Core (4.1.2)
+  - SideMenu (2.3.4)
+  - SwiftLoader (0.2.5)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - Cosmos
+  - SDWebImage
+  - SideMenu (~> 2.2)
+  - SwiftLoader
+  - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Cosmos: 4a9f57998a08788a1062c7b8eefbc62d2b590f39
+  SDWebImage: cb6f9f266a9977741efcbc21e618e8be3734c774
+  SideMenu: 2ea1a015d14ffb96110af43fe3232d995943e726
+  SwiftLoader: 12d7a6f661f5e9a2c9a72003e7dd6162f4ff0cc4
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: beeb2a4602c4fe84a4e1281c6d571b0325dcb1d4
+
+COCOAPODS: 1.2.1

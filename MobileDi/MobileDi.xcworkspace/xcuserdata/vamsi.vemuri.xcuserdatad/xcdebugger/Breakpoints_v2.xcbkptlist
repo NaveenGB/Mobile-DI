@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MobileDi/SideMenu/MenuViewController.swift"
+            timestampString = "532270717.034774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "logoutiPad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MobileDi.MenuViewController.logoutiPad() -&gt; ()"
+                  moduleName = "MobileDi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi.vemuri/Desktop/MobileDi/MobileDi/SideMenu/MenuViewController.swift"
+                  timestampString = "532266291.813096"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MobileDi.MenuViewController.logoutiPad() -&gt; ()"
+                  moduleName = "MobileDi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vamsi.vemuri/Desktop/MobileDi/MobileDi/SideMenu/MenuViewController.swift"
+                  timestampString = "532266291.817644"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

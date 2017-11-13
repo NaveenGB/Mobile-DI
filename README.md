@@ -3,7 +3,8 @@ Mobile DI iOS app
 
 Screenshots 
 
-![Login page](screenshots/login.PNG?=50x10 "Login page")
+
+<img src="screenshots/login.PNG" width="200">
     ![Web Service list page](screenshots/tableview.PNG?raw=true "TableView page")
     ![Navigation bar](screenshots/nav.PNG?raw=true "Navigation bar")
     ![Details page](screenshots/detailpage.PNG?raw=true "Details page")
